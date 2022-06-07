@@ -9,3 +9,4 @@ echo "tigervncserver $@" >/usr/bin/vncserver
 apt install gnome-icon-theme
 apt install tigervnc-xorg-extension
 apt install mesa-utils-*
+apt install x11-*
